@@ -1,0 +1,6 @@
+D:\Projects\Design Patterns\Strategy Pattern\Example3\Example3\bin\Debug\Example3.exe.config
+D:\Projects\Design Patterns\Strategy Pattern\Example3\Example3\bin\Debug\Example3.exe
+D:\Projects\Design Patterns\Strategy Pattern\Example3\Example3\bin\Debug\Example3.pdb
+D:\Projects\Design Patterns\Strategy Pattern\Example3\Example3\obj\Debug\Example3.csprojResolveAssemblyReference.cache
+D:\Projects\Design Patterns\Strategy Pattern\Example3\Example3\obj\Debug\Example3.exe
+D:\Projects\Design Patterns\Strategy Pattern\Example3\Example3\obj\Debug\Example3.pdb
